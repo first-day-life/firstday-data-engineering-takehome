@@ -1,5 +1,17 @@
 # First Day Data Engineer Take-Home Assignment
 
+## Repository
+
+- [Assignment repository](https://github.com/first-day-life/firstday-data-engineering-takehome)
+- [Provided raw input data](https://github.com/first-day-life/firstday-data-engineering-takehome/tree/main/data/raw)
+
+Clone the repository to begin:
+
+```bash
+git clone https://github.com/first-day-life/firstday-data-engineering-takehome.git
+cd firstday-data-engineering-takehome
+```
+
 ## Time expectation
 
 Please spend **8–10 focused hours** on this assignment. We care more about clear tradeoffs, correctness, and maintainability than about building a large system.
@@ -32,6 +44,14 @@ data/raw/events_2026-08-03.jsonl
 data/raw/accounts.csv
 data/raw/users.csv
 ```
+
+You can also inspect the supplied inputs directly on GitHub:
+
+- [`events_2026-08-01.jsonl`](https://github.com/first-day-life/firstday-data-engineering-takehome/blob/main/data/raw/events_2026-08-01.jsonl)
+- [`events_2026-08-02.jsonl`](https://github.com/first-day-life/firstday-data-engineering-takehome/blob/main/data/raw/events_2026-08-02.jsonl)
+- [`events_2026-08-03.jsonl`](https://github.com/first-day-life/firstday-data-engineering-takehome/blob/main/data/raw/events_2026-08-03.jsonl)
+- [`accounts.csv`](https://github.com/first-day-life/firstday-data-engineering-takehome/blob/main/data/raw/accounts.csv)
+- [`users.csv`](https://github.com/first-day-life/firstday-data-engineering-takehome/blob/main/data/raw/users.csv)
 
 Each line in an event file is intended to represent a JSON object with this shape:
 
