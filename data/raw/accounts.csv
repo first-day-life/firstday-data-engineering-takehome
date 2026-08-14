@@ -1,0 +1,9 @@
+account_id,account_name,plan,industry,seat_limit,created_at
+acct_001,Northstar Health,enterprise,healthcare,120,2025-09-14T08:00:00Z
+acct_002,Lumen Learning,growth,education,45,2026-01-10T10:30:00Z
+acct_003,Harbor & Pine,starter,retail,14,2026-05-06T12:00:00Z
+acct_004,Atlas Legal,growth,legal,38,2025-12-02T09:15:00Z
+acct_005,Cedar Finance,enterprise,financial_services,95,2025-07-21T07:45:00Z
+acct_006,Orbit People,growth,hr_technology,52,2026-02-17T14:20:00Z
+acct_007,Mosaic Studio,starter,creative_services,11,2026-06-11T16:00:00Z
+acct_008,Evergreen Ops,growth,business_services,31,2025-11-28T11:10:00Z
