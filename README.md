@@ -14,7 +14,7 @@ cd firstday-data-engineering-takehome
 
 ## Time expectation
 
-Please spend **8–10 focused hours** on this assignment. We care more about clear tradeoffs, correctness, and maintainability than about building a large system.
+Please spend **4–8 focused hours** on this assignment. We care more about clear tradeoffs, correctness, and maintainability than about building a large system.
 
 In your submission, tell us:
 
